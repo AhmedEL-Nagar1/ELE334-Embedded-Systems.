@@ -14,3 +14,7 @@ Embedded processor architecture and programming,I/O and device driver interfaces
 1. Build microcontroller/embedded systems <br>
 2. Program it using assembly / C languages <br>
 3. Techniques to interface to the real world
+<hr>
+
+## Youtube Playlist:
+[ELE334 Embedded Systems](https://youtube.com/playlist?list=PL6iqCJ0R5pMpUK6_L0vSMCHkSG5KVzKVP&si=3arYl0c3UL4qAd3B)
